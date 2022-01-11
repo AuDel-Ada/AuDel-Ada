@@ -3,6 +3,8 @@
 You will find here some projects developed during my training at ADA TECH SCHOOL PARIS.
 For more details, here is the address of my portfolio: https://audel-ada.github.io/ (only in French, for the moment) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuDel-Ada&layout=compact)](https://github.com/AuDel-Ada/github-readme-stats)
+
 <!--
 **AuDel-Ada/AuDel-Ada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
